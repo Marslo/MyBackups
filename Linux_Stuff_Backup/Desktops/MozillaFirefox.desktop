@@ -1,0 +1,16 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+X-SuSE-translate=true
+Categories=Network;WebBrowser;X-Ximian-Main;X-Ximian-Toplevel;GTK;
+Encoding=UTF-8
+Name=Firefox
+GenericName=Web Browser
+Comment=Web Browser
+TryExec=firefox
+Exec=firefox %u
+Icon=firefox
+Terminal=false
+StartupNotify=true
+MimeType=text/html;text/xml;application/xhtml+xml;application/vnd.mozilla.xul+xml;text/mml;application/x-xpinstall;
+Type=Application
+
